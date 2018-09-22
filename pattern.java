@@ -14,7 +14,7 @@ class pattern
 			}
 		
 			for (j=0;j<=l;j++)
-			{System.out.print("* ");
+			{System.out.print("j ");
 			}
 			System.out.print("\n");
 		}
